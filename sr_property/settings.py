@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'contact_us',
     'registration',
     'service',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
